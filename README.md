@@ -1,2 +1,2 @@
 # main-project
-Git講座用mainプロジェクト
+Git動画講座用mainプロジェクト
